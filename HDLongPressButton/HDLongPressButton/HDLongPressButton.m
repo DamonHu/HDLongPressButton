@@ -46,9 +46,6 @@
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
     
     self.hasTouchTime = 0;
-    if (self.startLongPressCompleteHandler) {
-        self.startLongPressCompleteHandler();
-    }
     self.timer = [NSTimer scheduledTimerWithTimeInterval:0.02 target:self selector:@selector(drawBottomRect) userInfo:nil repeats:YES];
 }
 
@@ -88,6 +85,9 @@
     self.hasTouchTime += 0.02;
     // 开始长按
     if (self.hasTouchTime > 0.5) {
+        if (self.startLongPressCompleteHandler) {
+            self.startLongPressCompleteHandler();
+        }
         [UIView animateWithDuration:.35
                          animations:^{
                              self.transform = CGAffineTransformMakeScale(1.3, 1.3);
@@ -101,6 +101,10 @@
         if (self.timer) {
             [self.timer invalidate];
             self.timer = nil;
+        }
+        __block float time = self.hasTouchTime;
+        if (self.endLongPressCompleteHandler) {
+            self.endLongPressCompleteHandler(time);
         }
     }
 }
