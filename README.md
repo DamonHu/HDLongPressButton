@@ -46,6 +46,25 @@ longPressBtn.cancelLongPressCompleteHandler = ^{
 };
 ```
 
+### 3、可设置的属性
+
+```
+///按钮中心颜色，默认红色
+@property (strong, nonatomic) UIColor *topColor;
+///进度条颜色
+@property (strong, nonatomic) UIColor *progressColor;
+///最长的长按时间，默认为4s
+@property (assign, nonatomic) float maxPressTime;
+///点击的回调
+@property (copy, nonatomic) TapCompleteHandler tapCompleteHandler;
+/// 开始长按的回调
+@property (copy, nonatomic) StartLongPressCompleteHandler startLongPressCompleteHandler;
+/// 结束长按的回调
+@property (copy, nonatomic) EndLongPressCompleteHandler endLongPressCompleteHandler;
+/// 取消长按的回调
+@property (copy, nonatomic) CancelLongPressCompleteHandler cancelLongPressCompleteHandler;
+```
+
 ## 三、效果演示
 
 ![](./demo.gif)

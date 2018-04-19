@@ -3,81 +3,81 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E4275AD52085DAFA00EF6EA2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E4275AD42085DAFA00EF6EA2 /* AppDelegate.m */; };
-		E4275AD82085DAFA00EF6EA2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4275AD72085DAFA00EF6EA2 /* ViewController.m */; };
-		E4275ADB2085DAFA00EF6EA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4275AD92085DAFA00EF6EA2 /* Main.storyboard */; };
-		E4275ADD2085DAFC00EF6EA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4275ADC2085DAFC00EF6EA2 /* Assets.xcassets */; };
-		E4275AE02085DAFC00EF6EA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4275ADE2085DAFC00EF6EA2 /* LaunchScreen.storyboard */; };
-		E4275AE32085DAFC00EF6EA2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E4275AE22085DAFC00EF6EA2 /* main.m */; };
-		E4275AED2085DAFC00EF6EA2 /* HDLongPressButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E4275AEC2085DAFC00EF6EA2 /* HDLongPressButtonTests.m */; };
-		E4275AF82085DAFC00EF6EA2 /* HDLongPressButtonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E4275AF72085DAFC00EF6EA2 /* HDLongPressButtonUITests.m */; };
-		E4275B082085DC4A00EF6EA2 /* HDLongPressButton.m in Sources */ = {isa = PBXBuildFile; fileRef = E4275B072085DC4A00EF6EA2 /* HDLongPressButton.m */; };
-		E4275B0B2085DF7500EF6EA2 /* HDLongPressButtonTopView.m in Sources */ = {isa = PBXBuildFile; fileRef = E4275B0A2085DF7500EF6EA2 /* HDLongPressButtonTopView.m */; };
-		E4275B0E2085DF8600EF6EA2 /* HDLongPressButtonBottomView.m in Sources */ = {isa = PBXBuildFile; fileRef = E4275B0D2085DF8600EF6EA2 /* HDLongPressButtonBottomView.m */; };
+		E45D075D20885AAB0096ECB5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E45D075C20885AAB0096ECB5 /* AppDelegate.m */; };
+		E45D076020885AAB0096ECB5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E45D075F20885AAB0096ECB5 /* ViewController.m */; };
+		E45D076320885AAB0096ECB5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E45D076120885AAB0096ECB5 /* Main.storyboard */; };
+		E45D076520885AAB0096ECB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E45D076420885AAB0096ECB5 /* Assets.xcassets */; };
+		E45D076820885AAB0096ECB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E45D076620885AAB0096ECB5 /* LaunchScreen.storyboard */; };
+		E45D076B20885AAB0096ECB5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E45D076A20885AAB0096ECB5 /* main.m */; };
+		E45D077520885AAB0096ECB5 /* HDLongPressButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E45D077420885AAB0096ECB5 /* HDLongPressButtonTests.m */; };
+		E45D078020885AAB0096ECB5 /* HDLongPressButtonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E45D077F20885AAB0096ECB5 /* HDLongPressButtonUITests.m */; };
+		E45D079620885BCE0096ECB5 /* HDLongPressButtonBottomView.m in Sources */ = {isa = PBXBuildFile; fileRef = E45D079120885BCE0096ECB5 /* HDLongPressButtonBottomView.m */; };
+		E45D079720885BCE0096ECB5 /* HDLongPressButtonTopView.m in Sources */ = {isa = PBXBuildFile; fileRef = E45D079320885BCE0096ECB5 /* HDLongPressButtonTopView.m */; };
+		E45D079820885BCE0096ECB5 /* HDLongPressButton.m in Sources */ = {isa = PBXBuildFile; fileRef = E45D079520885BCE0096ECB5 /* HDLongPressButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		E4275AE92085DAFC00EF6EA2 /* PBXContainerItemProxy */ = {
+		E45D077120885AAB0096ECB5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E4275AC82085DAFA00EF6EA2 /* Project object */;
+			containerPortal = E45D075020885AAB0096ECB5 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E4275ACF2085DAFA00EF6EA2;
+			remoteGlobalIDString = E45D075720885AAB0096ECB5;
 			remoteInfo = HDLongPressButton;
 		};
-		E4275AF42085DAFC00EF6EA2 /* PBXContainerItemProxy */ = {
+		E45D077C20885AAB0096ECB5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E4275AC82085DAFA00EF6EA2 /* Project object */;
+			containerPortal = E45D075020885AAB0096ECB5 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E4275ACF2085DAFA00EF6EA2;
+			remoteGlobalIDString = E45D075720885AAB0096ECB5;
 			remoteInfo = HDLongPressButton;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E4275AD02085DAFA00EF6EA2 /* HDLongPressButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HDLongPressButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E4275AD32085DAFA00EF6EA2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		E4275AD42085DAFA00EF6EA2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		E4275AD62085DAFA00EF6EA2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		E4275AD72085DAFA00EF6EA2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		E4275ADA2085DAFA00EF6EA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E4275ADC2085DAFC00EF6EA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E4275ADF2085DAFC00EF6EA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E4275AE12085DAFC00EF6EA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E4275AE22085DAFC00EF6EA2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E4275AE82085DAFC00EF6EA2 /* HDLongPressButtonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HDLongPressButtonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E4275AEC2085DAFC00EF6EA2 /* HDLongPressButtonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDLongPressButtonTests.m; sourceTree = "<group>"; };
-		E4275AEE2085DAFC00EF6EA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E4275AF32085DAFC00EF6EA2 /* HDLongPressButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HDLongPressButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E4275AF72085DAFC00EF6EA2 /* HDLongPressButtonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDLongPressButtonUITests.m; sourceTree = "<group>"; };
-		E4275AF92085DAFC00EF6EA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E4275B062085DC4A00EF6EA2 /* HDLongPressButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HDLongPressButton.h; sourceTree = "<group>"; };
-		E4275B072085DC4A00EF6EA2 /* HDLongPressButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDLongPressButton.m; sourceTree = "<group>"; };
-		E4275B092085DF7500EF6EA2 /* HDLongPressButtonTopView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HDLongPressButtonTopView.h; sourceTree = "<group>"; };
-		E4275B0A2085DF7500EF6EA2 /* HDLongPressButtonTopView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDLongPressButtonTopView.m; sourceTree = "<group>"; };
-		E4275B0C2085DF8500EF6EA2 /* HDLongPressButtonBottomView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HDLongPressButtonBottomView.h; sourceTree = "<group>"; };
-		E4275B0D2085DF8600EF6EA2 /* HDLongPressButtonBottomView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDLongPressButtonBottomView.m; sourceTree = "<group>"; };
+		E45D075820885AAB0096ECB5 /* HDLongPressButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HDLongPressButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E45D075B20885AAB0096ECB5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		E45D075C20885AAB0096ECB5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E45D075E20885AAB0096ECB5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		E45D075F20885AAB0096ECB5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E45D076220885AAB0096ECB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E45D076420885AAB0096ECB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E45D076720885AAB0096ECB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E45D076920885AAB0096ECB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E45D076A20885AAB0096ECB5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E45D077020885AAB0096ECB5 /* HDLongPressButtonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HDLongPressButtonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E45D077420885AAB0096ECB5 /* HDLongPressButtonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDLongPressButtonTests.m; sourceTree = "<group>"; };
+		E45D077620885AAB0096ECB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E45D077B20885AAB0096ECB5 /* HDLongPressButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HDLongPressButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E45D077F20885AAB0096ECB5 /* HDLongPressButtonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HDLongPressButtonUITests.m; sourceTree = "<group>"; };
+		E45D078120885AAB0096ECB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E45D079020885BCE0096ECB5 /* HDLongPressButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HDLongPressButton.h; path = HDLongPressButton/HDLongPressButton/HDLongPressButton.h; sourceTree = SOURCE_ROOT; };
+		E45D079120885BCE0096ECB5 /* HDLongPressButtonBottomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HDLongPressButtonBottomView.m; path = HDLongPressButton/HDLongPressButton/HDLongPressButtonBottomView.m; sourceTree = SOURCE_ROOT; };
+		E45D079220885BCE0096ECB5 /* HDLongPressButtonTopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HDLongPressButtonTopView.h; path = HDLongPressButton/HDLongPressButton/HDLongPressButtonTopView.h; sourceTree = SOURCE_ROOT; };
+		E45D079320885BCE0096ECB5 /* HDLongPressButtonTopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HDLongPressButtonTopView.m; path = HDLongPressButton/HDLongPressButton/HDLongPressButtonTopView.m; sourceTree = SOURCE_ROOT; };
+		E45D079420885BCE0096ECB5 /* HDLongPressButtonBottomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HDLongPressButtonBottomView.h; path = HDLongPressButton/HDLongPressButton/HDLongPressButtonBottomView.h; sourceTree = SOURCE_ROOT; };
+		E45D079520885BCE0096ECB5 /* HDLongPressButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HDLongPressButton.m; path = HDLongPressButton/HDLongPressButton/HDLongPressButton.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E4275ACD2085DAFA00EF6EA2 /* Frameworks */ = {
+		E45D075520885AAB0096ECB5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E4275AE52085DAFC00EF6EA2 /* Frameworks */ = {
+		E45D076D20885AAB0096ECB5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E4275AF02085DAFC00EF6EA2 /* Frameworks */ = {
+		E45D077820885AAB0096ECB5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -87,84 +87,85 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E4275AC72085DAFA00EF6EA2 = {
+		E45D074F20885AAB0096ECB5 = {
 			isa = PBXGroup;
 			children = (
-				E4275AD22085DAFA00EF6EA2 /* HDLongPressButton */,
-				E4275AEB2085DAFC00EF6EA2 /* HDLongPressButtonTests */,
-				E4275AF62085DAFC00EF6EA2 /* HDLongPressButtonUITests */,
-				E4275AD12085DAFA00EF6EA2 /* Products */,
+				E45D075A20885AAB0096ECB5 /* HDLongPressButton */,
+				E45D077320885AAB0096ECB5 /* HDLongPressButtonTests */,
+				E45D077E20885AAB0096ECB5 /* HDLongPressButtonUITests */,
+				E45D075920885AAB0096ECB5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E4275AD12085DAFA00EF6EA2 /* Products */ = {
+		E45D075920885AAB0096ECB5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E4275AD02085DAFA00EF6EA2 /* HDLongPressButton.app */,
-				E4275AE82085DAFC00EF6EA2 /* HDLongPressButtonTests.xctest */,
-				E4275AF32085DAFC00EF6EA2 /* HDLongPressButtonUITests.xctest */,
+				E45D075820885AAB0096ECB5 /* HDLongPressButton.app */,
+				E45D077020885AAB0096ECB5 /* HDLongPressButtonTests.xctest */,
+				E45D077B20885AAB0096ECB5 /* HDLongPressButtonUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E4275AD22085DAFA00EF6EA2 /* HDLongPressButton */ = {
+		E45D075A20885AAB0096ECB5 /* HDLongPressButton */ = {
 			isa = PBXGroup;
 			children = (
-				E4275B052085DC1100EF6EA2 /* HDLongPressButton */,
-				E4275AD32085DAFA00EF6EA2 /* AppDelegate.h */,
-				E4275AD42085DAFA00EF6EA2 /* AppDelegate.m */,
-				E4275AD62085DAFA00EF6EA2 /* ViewController.h */,
-				E4275AD72085DAFA00EF6EA2 /* ViewController.m */,
-				E4275AD92085DAFA00EF6EA2 /* Main.storyboard */,
-				E4275ADC2085DAFC00EF6EA2 /* Assets.xcassets */,
-				E4275ADE2085DAFC00EF6EA2 /* LaunchScreen.storyboard */,
-				E4275AE12085DAFC00EF6EA2 /* Info.plist */,
-				E4275AE22085DAFC00EF6EA2 /* main.m */,
+				E45D078F20885BB00096ECB5 /* HDLongPressButton */,
+				E45D075B20885AAB0096ECB5 /* AppDelegate.h */,
+				E45D075C20885AAB0096ECB5 /* AppDelegate.m */,
+				E45D075E20885AAB0096ECB5 /* ViewController.h */,
+				E45D075F20885AAB0096ECB5 /* ViewController.m */,
+				E45D076120885AAB0096ECB5 /* Main.storyboard */,
+				E45D076420885AAB0096ECB5 /* Assets.xcassets */,
+				E45D076620885AAB0096ECB5 /* LaunchScreen.storyboard */,
+				E45D076920885AAB0096ECB5 /* Info.plist */,
+				E45D076A20885AAB0096ECB5 /* main.m */,
 			);
 			path = HDLongPressButton;
 			sourceTree = "<group>";
 		};
-		E4275AEB2085DAFC00EF6EA2 /* HDLongPressButtonTests */ = {
+		E45D077320885AAB0096ECB5 /* HDLongPressButtonTests */ = {
 			isa = PBXGroup;
 			children = (
-				E4275AEC2085DAFC00EF6EA2 /* HDLongPressButtonTests.m */,
-				E4275AEE2085DAFC00EF6EA2 /* Info.plist */,
+				E45D077420885AAB0096ECB5 /* HDLongPressButtonTests.m */,
+				E45D077620885AAB0096ECB5 /* Info.plist */,
 			);
 			path = HDLongPressButtonTests;
 			sourceTree = "<group>";
 		};
-		E4275AF62085DAFC00EF6EA2 /* HDLongPressButtonUITests */ = {
+		E45D077E20885AAB0096ECB5 /* HDLongPressButtonUITests */ = {
 			isa = PBXGroup;
 			children = (
-				E4275AF72085DAFC00EF6EA2 /* HDLongPressButtonUITests.m */,
-				E4275AF92085DAFC00EF6EA2 /* Info.plist */,
+				E45D077F20885AAB0096ECB5 /* HDLongPressButtonUITests.m */,
+				E45D078120885AAB0096ECB5 /* Info.plist */,
 			);
 			path = HDLongPressButtonUITests;
 			sourceTree = "<group>";
 		};
-		E4275B052085DC1100EF6EA2 /* HDLongPressButton */ = {
+		E45D078F20885BB00096ECB5 /* HDLongPressButton */ = {
 			isa = PBXGroup;
 			children = (
-				E4275B062085DC4A00EF6EA2 /* HDLongPressButton.h */,
-				E4275B072085DC4A00EF6EA2 /* HDLongPressButton.m */,
-				E4275B092085DF7500EF6EA2 /* HDLongPressButtonTopView.h */,
-				E4275B0A2085DF7500EF6EA2 /* HDLongPressButtonTopView.m */,
-				E4275B0C2085DF8500EF6EA2 /* HDLongPressButtonBottomView.h */,
-				E4275B0D2085DF8600EF6EA2 /* HDLongPressButtonBottomView.m */,
+				E45D079020885BCE0096ECB5 /* HDLongPressButton.h */,
+				E45D079520885BCE0096ECB5 /* HDLongPressButton.m */,
+				E45D079420885BCE0096ECB5 /* HDLongPressButtonBottomView.h */,
+				E45D079120885BCE0096ECB5 /* HDLongPressButtonBottomView.m */,
+				E45D079220885BCE0096ECB5 /* HDLongPressButtonTopView.h */,
+				E45D079320885BCE0096ECB5 /* HDLongPressButtonTopView.m */,
 			);
-			path = HDLongPressButton;
+			name = HDLongPressButton;
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E4275ACF2085DAFA00EF6EA2 /* HDLongPressButton */ = {
+		E45D075720885AAB0096ECB5 /* HDLongPressButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E4275AFC2085DAFC00EF6EA2 /* Build configuration list for PBXNativeTarget "HDLongPressButton" */;
+			buildConfigurationList = E45D078420885AAB0096ECB5 /* Build configuration list for PBXNativeTarget "HDLongPressButton" */;
 			buildPhases = (
-				E4275ACC2085DAFA00EF6EA2 /* Sources */,
-				E4275ACD2085DAFA00EF6EA2 /* Frameworks */,
-				E4275ACE2085DAFA00EF6EA2 /* Resources */,
+				E45D075420885AAB0096ECB5 /* Sources */,
+				E45D075520885AAB0096ECB5 /* Frameworks */,
+				E45D075620885AAB0096ECB5 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -172,106 +173,109 @@
 			);
 			name = HDLongPressButton;
 			productName = HDLongPressButton;
-			productReference = E4275AD02085DAFA00EF6EA2 /* HDLongPressButton.app */;
+			productReference = E45D075820885AAB0096ECB5 /* HDLongPressButton.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E4275AE72085DAFC00EF6EA2 /* HDLongPressButtonTests */ = {
+		E45D076F20885AAB0096ECB5 /* HDLongPressButtonTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E4275AFF2085DAFC00EF6EA2 /* Build configuration list for PBXNativeTarget "HDLongPressButtonTests" */;
+			buildConfigurationList = E45D078720885AAB0096ECB5 /* Build configuration list for PBXNativeTarget "HDLongPressButtonTests" */;
 			buildPhases = (
-				E4275AE42085DAFC00EF6EA2 /* Sources */,
-				E4275AE52085DAFC00EF6EA2 /* Frameworks */,
-				E4275AE62085DAFC00EF6EA2 /* Resources */,
+				E45D076C20885AAB0096ECB5 /* Sources */,
+				E45D076D20885AAB0096ECB5 /* Frameworks */,
+				E45D076E20885AAB0096ECB5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E4275AEA2085DAFC00EF6EA2 /* PBXTargetDependency */,
+				E45D077220885AAB0096ECB5 /* PBXTargetDependency */,
 			);
 			name = HDLongPressButtonTests;
 			productName = HDLongPressButtonTests;
-			productReference = E4275AE82085DAFC00EF6EA2 /* HDLongPressButtonTests.xctest */;
+			productReference = E45D077020885AAB0096ECB5 /* HDLongPressButtonTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E4275AF22085DAFC00EF6EA2 /* HDLongPressButtonUITests */ = {
+		E45D077A20885AAB0096ECB5 /* HDLongPressButtonUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E4275B022085DAFC00EF6EA2 /* Build configuration list for PBXNativeTarget "HDLongPressButtonUITests" */;
+			buildConfigurationList = E45D078A20885AAB0096ECB5 /* Build configuration list for PBXNativeTarget "HDLongPressButtonUITests" */;
 			buildPhases = (
-				E4275AEF2085DAFC00EF6EA2 /* Sources */,
-				E4275AF02085DAFC00EF6EA2 /* Frameworks */,
-				E4275AF12085DAFC00EF6EA2 /* Resources */,
+				E45D077720885AAB0096ECB5 /* Sources */,
+				E45D077820885AAB0096ECB5 /* Frameworks */,
+				E45D077920885AAB0096ECB5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E4275AF52085DAFC00EF6EA2 /* PBXTargetDependency */,
+				E45D077D20885AAB0096ECB5 /* PBXTargetDependency */,
 			);
 			name = HDLongPressButtonUITests;
 			productName = HDLongPressButtonUITests;
-			productReference = E4275AF32085DAFC00EF6EA2 /* HDLongPressButtonUITests.xctest */;
+			productReference = E45D077B20885AAB0096ECB5 /* HDLongPressButtonUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E4275AC82085DAFA00EF6EA2 /* Project object */ = {
+		E45D075020885AAB0096ECB5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0930;
-				ORGANIZATIONNAME = damon;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = Damon;
 				TargetAttributes = {
-					E4275ACF2085DAFA00EF6EA2 = {
-						CreatedOnToolsVersion = 9.3;
+					E45D075720885AAB0096ECB5 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Manual;
 					};
-					E4275AE72085DAFC00EF6EA2 = {
-						CreatedOnToolsVersion = 9.3;
-						TestTargetID = E4275ACF2085DAFA00EF6EA2;
+					E45D076F20885AAB0096ECB5 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = E45D075720885AAB0096ECB5;
 					};
-					E4275AF22085DAFC00EF6EA2 = {
-						CreatedOnToolsVersion = 9.3;
-						TestTargetID = E4275ACF2085DAFA00EF6EA2;
+					E45D077A20885AAB0096ECB5 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = E45D075720885AAB0096ECB5;
 					};
 				};
 			};
-			buildConfigurationList = E4275ACB2085DAFA00EF6EA2 /* Build configuration list for PBXProject "HDLongPressButton" */;
-			compatibilityVersion = "Xcode 9.3";
+			buildConfigurationList = E45D075320885AAB0096ECB5 /* Build configuration list for PBXProject "HDLongPressButton" */;
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = E4275AC72085DAFA00EF6EA2;
-			productRefGroup = E4275AD12085DAFA00EF6EA2 /* Products */;
+			mainGroup = E45D074F20885AAB0096ECB5;
+			productRefGroup = E45D075920885AAB0096ECB5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E4275ACF2085DAFA00EF6EA2 /* HDLongPressButton */,
-				E4275AE72085DAFC00EF6EA2 /* HDLongPressButtonTests */,
-				E4275AF22085DAFC00EF6EA2 /* HDLongPressButtonUITests */,
+				E45D075720885AAB0096ECB5 /* HDLongPressButton */,
+				E45D076F20885AAB0096ECB5 /* HDLongPressButtonTests */,
+				E45D077A20885AAB0096ECB5 /* HDLongPressButtonUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E4275ACE2085DAFA00EF6EA2 /* Resources */ = {
+		E45D075620885AAB0096ECB5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4275AE02085DAFC00EF6EA2 /* LaunchScreen.storyboard in Resources */,
-				E4275ADD2085DAFC00EF6EA2 /* Assets.xcassets in Resources */,
-				E4275ADB2085DAFA00EF6EA2 /* Main.storyboard in Resources */,
+				E45D076820885AAB0096ECB5 /* LaunchScreen.storyboard in Resources */,
+				E45D076520885AAB0096ECB5 /* Assets.xcassets in Resources */,
+				E45D076320885AAB0096ECB5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E4275AE62085DAFC00EF6EA2 /* Resources */ = {
+		E45D076E20885AAB0096ECB5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E4275AF12085DAFC00EF6EA2 /* Resources */ = {
+		E45D077920885AAB0096ECB5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -281,63 +285,63 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E4275ACC2085DAFA00EF6EA2 /* Sources */ = {
+		E45D075420885AAB0096ECB5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4275AD82085DAFA00EF6EA2 /* ViewController.m in Sources */,
-				E4275AE32085DAFC00EF6EA2 /* main.m in Sources */,
-				E4275AD52085DAFA00EF6EA2 /* AppDelegate.m in Sources */,
-				E4275B0B2085DF7500EF6EA2 /* HDLongPressButtonTopView.m in Sources */,
-				E4275B082085DC4A00EF6EA2 /* HDLongPressButton.m in Sources */,
-				E4275B0E2085DF8600EF6EA2 /* HDLongPressButtonBottomView.m in Sources */,
+				E45D076020885AAB0096ECB5 /* ViewController.m in Sources */,
+				E45D079820885BCE0096ECB5 /* HDLongPressButton.m in Sources */,
+				E45D079620885BCE0096ECB5 /* HDLongPressButtonBottomView.m in Sources */,
+				E45D076B20885AAB0096ECB5 /* main.m in Sources */,
+				E45D079720885BCE0096ECB5 /* HDLongPressButtonTopView.m in Sources */,
+				E45D075D20885AAB0096ECB5 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E4275AE42085DAFC00EF6EA2 /* Sources */ = {
+		E45D076C20885AAB0096ECB5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4275AED2085DAFC00EF6EA2 /* HDLongPressButtonTests.m in Sources */,
+				E45D077520885AAB0096ECB5 /* HDLongPressButtonTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E4275AEF2085DAFC00EF6EA2 /* Sources */ = {
+		E45D077720885AAB0096ECB5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4275AF82085DAFC00EF6EA2 /* HDLongPressButtonUITests.m in Sources */,
+				E45D078020885AAB0096ECB5 /* HDLongPressButtonUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		E4275AEA2085DAFC00EF6EA2 /* PBXTargetDependency */ = {
+		E45D077220885AAB0096ECB5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E4275ACF2085DAFA00EF6EA2 /* HDLongPressButton */;
-			targetProxy = E4275AE92085DAFC00EF6EA2 /* PBXContainerItemProxy */;
+			target = E45D075720885AAB0096ECB5 /* HDLongPressButton */;
+			targetProxy = E45D077120885AAB0096ECB5 /* PBXContainerItemProxy */;
 		};
-		E4275AF52085DAFC00EF6EA2 /* PBXTargetDependency */ = {
+		E45D077D20885AAB0096ECB5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E4275ACF2085DAFA00EF6EA2 /* HDLongPressButton */;
-			targetProxy = E4275AF42085DAFC00EF6EA2 /* PBXContainerItemProxy */;
+			target = E45D075720885AAB0096ECB5 /* HDLongPressButton */;
+			targetProxy = E45D077C20885AAB0096ECB5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		E4275AD92085DAFA00EF6EA2 /* Main.storyboard */ = {
+		E45D076120885AAB0096ECB5 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E4275ADA2085DAFA00EF6EA2 /* Base */,
+				E45D076220885AAB0096ECB5 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E4275ADE2085DAFC00EF6EA2 /* LaunchScreen.storyboard */ = {
+		E45D076620885AAB0096ECB5 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E4275ADF2085DAFC00EF6EA2 /* Base */,
+				E45D076720885AAB0096ECB5 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -345,7 +349,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E4275AFA2085DAFC00EF6EA2 /* Debug */ = {
+		E45D078220885AAB0096ECB5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -355,12 +359,10 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -368,7 +370,6 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -396,14 +397,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
-		E4275AFB2085DAFC00EF6EA2 /* Release */ = {
+		E45D078320885AAB0096ECB5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -413,12 +414,10 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -426,7 +425,6 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -448,63 +446,50 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		E4275AFD2085DAFC00EF6EA2 /* Debug */ = {
+		E45D078520885AAB0096ECB5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = DBH6C2N85V;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = HDLongPressButton/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huaimayi.HDLongPressButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "03310a9c-7d52-4635-89ca-cf7979e42ed0";
-				PROVISIONING_PROFILE_SPECIFIER = huaimayi_dev;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		E4275AFE2085DAFC00EF6EA2 /* Release */ = {
+		E45D078620885AAB0096ECB5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = DBH6C2N85V;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = HDLongPressButton/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huaimayi.HDLongPressButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "03310a9c-7d52-4635-89ca-cf7979e42ed0";
-				PROVISIONING_PROFILE_SPECIFIER = huaimayi_dev;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		E4275B002085DAFC00EF6EA2 /* Debug */ = {
+		E45D078820885AAB0096ECB5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DBH6C2N85V;
 				INFOPLIST_FILE = HDLongPressButtonTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huaimayi.HDLongPressButtonTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -512,18 +497,13 @@
 			};
 			name = Debug;
 		};
-		E4275B012085DAFC00EF6EA2 /* Release */ = {
+		E45D078920885AAB0096ECB5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DBH6C2N85V;
 				INFOPLIST_FILE = HDLongPressButtonTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huaimayi.HDLongPressButtonTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -531,17 +511,12 @@
 			};
 			name = Release;
 		};
-		E4275B032085DAFC00EF6EA2 /* Debug */ = {
+		E45D078B20885AAB0096ECB5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DBH6C2N85V;
 				INFOPLIST_FILE = HDLongPressButtonUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huaimayi.HDLongPressButtonUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -549,17 +524,12 @@
 			};
 			name = Debug;
 		};
-		E4275B042085DAFC00EF6EA2 /* Release */ = {
+		E45D078C20885AAB0096ECB5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = DBH6C2N85V;
 				INFOPLIST_FILE = HDLongPressButtonUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huaimayi.HDLongPressButtonUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -570,43 +540,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E4275ACB2085DAFA00EF6EA2 /* Build configuration list for PBXProject "HDLongPressButton" */ = {
+		E45D075320885AAB0096ECB5 /* Build configuration list for PBXProject "HDLongPressButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E4275AFA2085DAFC00EF6EA2 /* Debug */,
-				E4275AFB2085DAFC00EF6EA2 /* Release */,
+				E45D078220885AAB0096ECB5 /* Debug */,
+				E45D078320885AAB0096ECB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E4275AFC2085DAFC00EF6EA2 /* Build configuration list for PBXNativeTarget "HDLongPressButton" */ = {
+		E45D078420885AAB0096ECB5 /* Build configuration list for PBXNativeTarget "HDLongPressButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E4275AFD2085DAFC00EF6EA2 /* Debug */,
-				E4275AFE2085DAFC00EF6EA2 /* Release */,
+				E45D078520885AAB0096ECB5 /* Debug */,
+				E45D078620885AAB0096ECB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E4275AFF2085DAFC00EF6EA2 /* Build configuration list for PBXNativeTarget "HDLongPressButtonTests" */ = {
+		E45D078720885AAB0096ECB5 /* Build configuration list for PBXNativeTarget "HDLongPressButtonTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E4275B002085DAFC00EF6EA2 /* Debug */,
-				E4275B012085DAFC00EF6EA2 /* Release */,
+				E45D078820885AAB0096ECB5 /* Debug */,
+				E45D078920885AAB0096ECB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E4275B022085DAFC00EF6EA2 /* Build configuration list for PBXNativeTarget "HDLongPressButtonUITests" */ = {
+		E45D078A20885AAB0096ECB5 /* Build configuration list for PBXNativeTarget "HDLongPressButtonUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E4275B032085DAFC00EF6EA2 /* Debug */,
-				E4275B042085DAFC00EF6EA2 /* Release */,
+				E45D078B20885AAB0096ECB5 /* Debug */,
+				E45D078C20885AAB0096ECB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E4275AC82085DAFA00EF6EA2 /* Project object */;
+	rootObject = E45D075020885AAB0096ECB5 /* Project object */;
 }
